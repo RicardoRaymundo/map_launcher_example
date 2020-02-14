@@ -3,6 +3,8 @@
 Exemplo de uso da lib [map_launcher](https://pub.dev/packages/map_launcher)
 para acionar Google Maps/Waze/etc.. através de uma aplicação Flutter.
 
+[Launching maps](https://github.com/RicardoRaymundo/map_launcher_example/blob/master/images%26gifs/map_launcher.gif)
+
 > Veja tambem o manual de google maps para 
 [Flutter](https://github.com/RicardoRaymundo/google_maps_example)
 e [JavaScript](https://github.com/RicardoRaymundo/google_maps_example/tree/master/js_examples)
