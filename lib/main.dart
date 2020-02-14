@@ -52,7 +52,7 @@ class _MyHomePageState extends State<MyHomePage> {
         onPressed: launchMap,
         tooltip: 'Increment',
         child: Icon(Icons.map),
-      ), 
+      ),
     );
   }
 }
